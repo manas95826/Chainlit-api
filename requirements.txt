@@ -1,3 +1,5 @@
 langchain
 chainlit
 huggingface-hub
+flask
+translate
